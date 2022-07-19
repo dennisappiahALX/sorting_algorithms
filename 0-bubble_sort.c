@@ -6,7 +6,7 @@
  * @array: The array to be sorted
  * @size: The size of the array
  *
- * Authors: Lawrence Adams & Francesca Lynn Asiedu Asare
+ * Author: Dennis Appiah
  *
  * Return: void
  */
