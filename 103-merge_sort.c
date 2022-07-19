@@ -13,7 +13,7 @@ void merge_sort(int *array, size_t size);
  * @mid: The middle index of the array.
  * @back: The back index of the array.
  *
- * Authors: Lawrence Adams & Francesca Lynn Asiedu Asare
+ * Author: Dennis Appiah
  */
 void merge_subarr(int *subarr, int *buff, size_t front, size_t mid,
 		size_t back)
