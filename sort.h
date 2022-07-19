@@ -14,7 +14,7 @@
  * @false: Equals 0.
  * @true: Equals 1.
  *
- * Authors: Francesca Lynn Asiedu & Lawrence Adams
+ * Author: Dennis Appiah
  */
 typedef enum bool
 {

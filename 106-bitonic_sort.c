@@ -11,7 +11,7 @@ void bitonic_sort(int *array, size_t size);
  * @a: The first integer to swap.
  * @b: The second integer to swap.
  *
- * Authors: Lawrence Adams & Francesca Lynn Asiedu Asare
+ * Author: Dennis Appiah
  */
 void swap_ints(int *a, int *b)
 {

@@ -8,7 +8,7 @@
  * @CLUB: club suit
  * @DIAMOND: diamond suit
  *
- * Authors: Lawrence Adams & Francesca Lynn Asiedu Asare
+ * Author: Dennis Appiah
  */
 typedef enum kind_e
 {

@@ -6,7 +6,7 @@
   * @size: size of array
   * Description: Prints the array after each swap.
   *
-  * Authors: Lawrence Adams & Francesca Lynn Asiedu Asare
+  * Author: Dennis Appiah
   */
 void selection_sort(int *array, size_t size)
 {
